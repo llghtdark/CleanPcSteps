@@ -1,0 +1,6 @@
+These files are here for ANY of you for ANY reason to be able to quickly and easily re-apply the STOCK reg settings.
+Reverting ALL changes made, make sure after applying these to restart your PC to make sure they are fully set within windows.
+
+You can use these to go back and forth for testing, 
+Give confidence in trying the optimized REG files safely knowing you can always revert.
+Or just go back to stock if you dont find these helpful for your system.

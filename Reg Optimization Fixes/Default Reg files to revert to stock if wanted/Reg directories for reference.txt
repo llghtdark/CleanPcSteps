@@ -1,0 +1,24 @@
+Copy each line at a time, paste it into REGEDIT in windows to be taken directly to the right directories.
+
+
+Config folder to delete:
+Computer\HKEY_CURRENT_USER\System\GameConfigStore\Children
+
+
+
+Disable GAMEDVR 1:
+Computer\HKEY_CURRENT_USER\System\GameConfigStore
+
+
+
+Disable GAMEDVR 2:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR
+
+
+
+System Optimizations:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile
+
+
+Game Optimizations:
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games
